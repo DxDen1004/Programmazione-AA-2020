@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-//NB: A[Rows][Col]
 
 void superC(int X[][10], int righe, int & sc, int & rip){
     int currentColumn = 0, i = 0, j = 0;
